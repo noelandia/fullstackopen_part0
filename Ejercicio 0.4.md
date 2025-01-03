@@ -38,4 +38,6 @@ sequenceDiagram
     deactivate server
 
     Note right of browser: El navegador ejecuta la función de despliegue de información
+
+    browser->>user: Muestra la información actualizada con la información introducida
 ```
